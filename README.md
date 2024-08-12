@@ -9,6 +9,7 @@ Python 3.9+, Pytorch 1.5.0+, Cuda 10.2+, TensorboardX 2.1
 If anything goes wrong with the environment, please check requirements.txt for details.
 
 # Architecture and Details
-![Uploading 1723447407071.png…]()
+![EBDNet](https://github.com/user-attachments/assets/b3d51d71-60f4-4767-a39e-470927e7b883)
+
 
 
