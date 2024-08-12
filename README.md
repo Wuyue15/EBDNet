@@ -11,5 +11,7 @@ If anything goes wrong with the environment, please check requirements.txt for d
 # Architecture and Details
 ![EBDNet](https://github.com/user-attachments/assets/b3d51d71-60f4-4767-a39e-470927e7b883)
 
+# Results
+![Uploading table1.png…]()
 
 
